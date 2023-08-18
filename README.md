@@ -4,6 +4,10 @@ The project represents a Java-based application developed with the Swing library
 
 The key feature of this project was  implementation of a maze generation algorithm, which employs advanced data structures and procedural techniques to dynamically construct intricate and challenging mazes.
 
+This project aligns with the fundamental principles of object-oriented design, encapsulating maze components, player entities, and game mechanics into modular and reusable classes. This design approach not only enhances code readability but also promotes extensibility and maintainability, facilitating potential future enhancements or additions.
+
+<b>Gameplay video: </b>https://drive.google.com/file/d/1NvqGiX-p5MmBEey2BESqxEmtirXbjdr6/view?usp=sharing
+
 <b>Maze images:</b>
 
 <p align="center">
